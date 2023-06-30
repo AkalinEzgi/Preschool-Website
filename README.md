@@ -1,6 +1,6 @@
 # Kodluyoruz CSS Ödev-1
 
-Bu repo [Kodluyoruz](https://academy.patika.dev)Front-End Eğitiminde oluşturduğumuz ilk css ödevi. İçerisinde bir adet README dosyası, bir adet de index.html, css ve img klasörlerini barındırıyor.
+Bu repo [Kodluyoruz] (https://academy.patika.dev)Front-End Eğitiminde oluşturduğumuz ilk css ödevi. İçerisinde bir adet README dosyası, bir adet de index.html, css ve img klasörlerini barındırıyor.
 
 # Installation
 
