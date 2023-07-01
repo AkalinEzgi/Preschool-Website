@@ -4,9 +4,10 @@ Bu repo [Kodluyoruz] (https://academy.patika.dev)Front-End Eğitiminde oluşturd
 
 # Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 
-    git clone https://github.com/AkalinEzgi/kodluyoruzilkrepo.git
+    git clone 
+    https://github.com/AkalinEzgi/Preschool-Website.git
 
 # Usage 
 
